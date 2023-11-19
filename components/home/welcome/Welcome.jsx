@@ -28,11 +28,11 @@ const Welcome = () => {
           <TextInput
             style={styles.searchInput}
             value=""
-            onChange={() => {}}
+            onChange={() => { }}
             placeholder="Enter your dream job here..."
           />
         </View>
-        <TouchableOpacity style={styles.searchBtn} onPress={() => {}}>
+        <TouchableOpacity style={styles.searchBtn} onPress={() => { }}>
           <Image
             source={icons.search}
             resizeMode="contain"
