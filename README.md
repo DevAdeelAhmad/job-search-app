@@ -1,1 +1,2 @@
-![WhatsApp Image 2023-11-21 at 02 13 46_23c01189](https://github.com/DevAdeelAhmad/job-search-app/assets/76817960/b8b0b3d2-f237-4d4b-acf0-b2a7b53d80ec)
+<img src="https://github.com/DevAdeelAhmad/job-search-app/assets/76817960/d41b627c-2520-4e60-a547-81f580a6956b" width="300" height="650"/> &emsp;&emsp;
+<img src="https://github.com/DevAdeelAhmad/job-search-app/assets/76817960/8a61ac5f-fc7e-470f-a32a-8beb222c719b" width="300" height="650"/>
